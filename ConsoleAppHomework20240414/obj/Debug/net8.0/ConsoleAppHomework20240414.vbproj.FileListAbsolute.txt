@@ -1,0 +1,14 @@
+C:\Users\shota\source\repos\VisualStudio用\VB.net\ConsoleAppHomework20240414\ConsoleAppHomework20240414\bin\Debug\net8.0\ConsoleAppHomework20240414.exe
+C:\Users\shota\source\repos\VisualStudio用\VB.net\ConsoleAppHomework20240414\ConsoleAppHomework20240414\bin\Debug\net8.0\ConsoleAppHomework20240414.deps.json
+C:\Users\shota\source\repos\VisualStudio用\VB.net\ConsoleAppHomework20240414\ConsoleAppHomework20240414\bin\Debug\net8.0\ConsoleAppHomework20240414.runtimeconfig.json
+C:\Users\shota\source\repos\VisualStudio用\VB.net\ConsoleAppHomework20240414\ConsoleAppHomework20240414\bin\Debug\net8.0\ConsoleAppHomework20240414.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\ConsoleAppHomework20240414\ConsoleAppHomework20240414\bin\Debug\net8.0\ConsoleAppHomework20240414.pdb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\ConsoleAppHomework20240414\ConsoleAppHomework20240414\obj\Debug\net8.0\ConsoleAppHomework20240414.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shota\source\repos\VisualStudio用\VB.net\ConsoleAppHomework20240414\ConsoleAppHomework20240414\obj\Debug\net8.0\ConsoleAppHomework20240414.AssemblyInfoInputs.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\ConsoleAppHomework20240414\ConsoleAppHomework20240414\obj\Debug\net8.0\ConsoleAppHomework20240414.AssemblyInfo.vb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\ConsoleAppHomework20240414\ConsoleAppHomework20240414\obj\Debug\net8.0\ConsoleAppHomework20240414.vbproj.CoreCompileInputs.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\ConsoleAppHomework20240414\ConsoleAppHomework20240414\obj\Debug\net8.0\ConsoleAppHomework20240414.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\ConsoleAppHomework20240414\ConsoleAppHomework20240414\obj\Debug\net8.0\refint\ConsoleAppHomework20240414.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\ConsoleAppHomework20240414\ConsoleAppHomework20240414\obj\Debug\net8.0\ConsoleAppHomework20240414.pdb
+C:\Users\shota\source\repos\VisualStudio用\VB.net\ConsoleAppHomework20240414\ConsoleAppHomework20240414\obj\Debug\net8.0\ConsoleAppHomework20240414.genruntimeconfig.cache
+C:\Users\shota\source\repos\VisualStudio用\VB.net\ConsoleAppHomework20240414\ConsoleAppHomework20240414\obj\Debug\net8.0\ref\ConsoleAppHomework20240414.dll
