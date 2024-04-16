@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppHomework20240414"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4219e00e32a1d152ba0bb505aed90b06f3393df"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppHomework20240414"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppHomework20240414"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 

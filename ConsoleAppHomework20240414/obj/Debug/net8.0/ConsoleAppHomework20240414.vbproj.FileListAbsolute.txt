@@ -12,3 +12,4 @@ C:\Users\shota\source\repos\VisualStudio用\VB.net\ConsoleAppHomework20240414\Co
 C:\Users\shota\source\repos\VisualStudio用\VB.net\ConsoleAppHomework20240414\ConsoleAppHomework20240414\obj\Debug\net8.0\ConsoleAppHomework20240414.pdb
 C:\Users\shota\source\repos\VisualStudio用\VB.net\ConsoleAppHomework20240414\ConsoleAppHomework20240414\obj\Debug\net8.0\ConsoleAppHomework20240414.genruntimeconfig.cache
 C:\Users\shota\source\repos\VisualStudio用\VB.net\ConsoleAppHomework20240414\ConsoleAppHomework20240414\obj\Debug\net8.0\ref\ConsoleAppHomework20240414.dll
+C:\Users\shota\source\repos\VisualStudio用\VB.net\ConsoleAppHomework20240414\ConsoleAppHomework20240414\obj\Debug\net8.0\ConsoleAppHomework20240414.sourcelink.json
